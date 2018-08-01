@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CC89-CDF2
+
+ Directory of C:\Users\Yossi\OneDrive\Desktop\MyProject
+
+01-Aug-18  12:58 PM    <DIR>          .
+01-Aug-18  12:58 PM    <DIR>          ..
+01-Aug-18  12:58 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  103,719,010,304 bytes free
